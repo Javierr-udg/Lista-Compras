@@ -1,0 +1,25 @@
+{
+  "name": "app04-lista-compras",
+  "version": "1.0.0",
+  "description": "Aplicacion para lista de compras",
+  "main": "Main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.githu.com/Javierr/Curso-Electron"
+  },
+  "keywords": [
+    "Escritorio",
+    "html",
+    "electron",
+    "css",
+    "javascript"
+  ],
+  "author": "Javier Ramírez García",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^10.1.5"
+  }
+}
